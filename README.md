@@ -5,7 +5,7 @@ To install from a terminal:
 
 1. Run:
 ```
-git clone << this repo name >>
+git clone https://github.com/jbesw/csv-to-tab
 npm install
 ```
 2. Copy your input.csv file to the same directory.
